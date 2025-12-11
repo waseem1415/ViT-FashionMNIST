@@ -30,7 +30,7 @@ This repository contains a professional and reproducible implementation of the V
 1. **Clone the repository:**
 
 ```bash
-git clone <repository_url>
+git clone (https://github.com/waseem1415/ViT-FashionMNIST)
 cd ViT-FashionMNIST
 Install dependencies:
 
